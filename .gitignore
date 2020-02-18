@@ -1,0 +1,7 @@
+# Jupyter files
+.ipynb_checkpoints
+octave_workspace
+
+# Other binaries
+*.pdf
+*.zip
