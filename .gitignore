@@ -1,6 +1,6 @@
 # Jupyter files
 .ipynb_checkpoints
-octave_workspace
+octave-workspace
 
 # Other binaries
 *.pdf
