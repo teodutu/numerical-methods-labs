@@ -1,0 +1,5 @@
+%!test
+%! assert(true == ConvergesJacobi([1 2 4; 2 1 4; 3 1 2]))
+
+%!test
+%! assert(false == ConvergesJacobi([1 0 0; 0 5 0; 0 0 9]))
